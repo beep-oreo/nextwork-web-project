@@ -2,7 +2,7 @@
 
 <body>
 
-<h2>Hello josh</h2>
+<h2>Hello Alienware</h2>
 
 <p>This is my NextWork web application working!</p>
 
