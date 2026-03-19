@@ -63,6 +63,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
+
 josh - [Email](mailto:josh.rivas956@gmail.com)
 - [LinkedIn](www.linkedin.com/in/joshua-rivas-3b12b2282)
 <br>
